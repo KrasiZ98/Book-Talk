@@ -1,0 +1,53 @@
+{
+  "books": [
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "rating": "4",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/640px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+      "description": "A classic novel about the struggles of a young man in society.",
+      "ownerId": 3,
+      "id": 1
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Drama",
+      "rating": "5",
+      "image": "https://m.media-amazon.com/images/I/81gepf1eMqL._AC_UF1000,1000_QL80_.jpg",
+      "description": "A powerful story of racial injustice and moral growth in the American South",
+      "ownerId": 3,
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "krasi@abv.bg",
+      "username": "kras98",
+      "image": "https://4.bp.blogspot.com/-uhbHaCPo4Uw/T2T6vKE9XzI/AAAAAAAAHuU/SYmb6BMsgjg/s1600/427049_228666173898071_147839825314040_431213_2048117155_n.jpg",
+      "password": "123456",
+      "reppass": "123456",
+      "wishReadBook": [],
+      "id": 1
+    },
+    {
+      "email": "miro@abv.bg",
+      "username": "krasi98",
+      "image": "https://4.bp.blogspot.com/-uhbHaCPo4Uw/T2T6vKE9XzI/AAAAAAAAHuU/SYmb6BMsgjg/s1600/427049_228666173898071_147839825314040_431213_2048117155_n.jpg",
+      "password": "123456",
+      "reppass": "123456",
+      "wishReadBook": [],
+      "id": 2
+    },
+    {
+      "email": "kiro@abv.bg",
+      "username": "kiro9898",
+      "image": "https://www.fccska.com/image/show/5c1a5ae1e2169a2ef6df1304da796aa3/07fe9417379102199a4905bba9447d9f/upload/2022/04/29/krasimir-balakov0.jpg",
+      "password": "123456",
+      "reppass": "123456",
+      "wishReadBook": [],
+      "id": 3
+    }
+  ]
+}
