@@ -1,0 +1,25 @@
+.home {
+    display: flex;
+    margin: 100px ;
+    
+}
+
+.home-info {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.home-info a {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(91, 148, 5);
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 20%;
+}
+
+.book-img img {
+    width: 100%;
+}
